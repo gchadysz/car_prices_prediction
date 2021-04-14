@@ -1,4 +1,4 @@
-Car price prediction project encorporating several machine learning techniques.
+Car price prediction project encorporating several machine learning regression techniques.
 
 
 The dataset can be downloaded from:
