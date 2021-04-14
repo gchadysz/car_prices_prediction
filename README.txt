@@ -1,3 +1,6 @@
+Car price prediction project encorporating several machine learning techniques.
+
+
 The dataset can be downloaded from:
 https://drive.google.com/file/d/1HnpfG2xj_6EZ7Tgle2QB9Yn_YS7r7uVA/view
 
